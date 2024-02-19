@@ -3,7 +3,6 @@
 Take control of your finances with the Money Tracker WebApp – a powerful financial management tool built with HTML, CSS, and JavaScript. This lightweight web application provides a seamless user experience, allowing you to effortlessly track income, log expenses, and gain valuable insights into your spending habits.
 
 ## Getting Started
-Getting started is a breeze:
 
 Clone the repository and open the project in your preferred code editor.
 Customize the application by modifying HTML, CSS, and JavaScript files.
